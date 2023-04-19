@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Analyst Currently doing a bootcamp on <br>Data Analysis with SQL, Power Bi and Excel.<br><br>I'm looking to collaborate on any project that would help me gain more real <br>world skills on the above stack<br>
+I'm a Technical Support Engineeer and a Data Analyst Currently doing a bootcamp on <br>Data Analysis with SQL, Power Bi and Excel.<br><br>I'm looking to collaborate on any project that would help me gain more real <br>world skills on the above stack<br>
 
 
 ## 🌐 Socials:
