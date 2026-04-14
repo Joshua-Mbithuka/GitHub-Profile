@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm a Technical Support Engineeer and a Data Analyst Currently doing a bootcamp on <br>Data Analysis with SQL, Power Bi and Excel.<br><br>I'm looking to collaborate on any project that would help me gain more real <br>world skills on the above stack<br>
+Results-driven IT Engineer with 6+ years of hands-on experience, <br>
+now specialising in **AI Engineering and Intelligent Automation**. <br><br>
+
+I build autonomous AI agents and workflow automations that solve <br>
+real operational problems — integrating LLMs, APIs, and cloud <br>
+infrastructure into production-ready systems. <br><br>
+
+🤖 Currently building with: **n8n · Claude (Anthropic) · Python · SQL** <br>
+🔧 Background in: **Technical Support · Data Analysis · Cloud Infrastructure** <br>
+📊 Skilled in: **Power BI · PowerAutomate · Google Cloud · Freshservice** <br><br>
+
+🚀 Recent projects: <br>
+- AI Weather Agent — autonomous daily briefing using Claude + OpenWeatherMap <br>
+- IT Support AI Agent — intelligent support bot with auto Freshservice ticket creation <br><br>
+
+💡 Always open to collaborating on AI automation, <br>
+data engineering, or intelligent systems projects!
 
 
 ## 🌐 Socials:
